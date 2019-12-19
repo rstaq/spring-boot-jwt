@@ -1,4 +1,4 @@
-## Introduction
+# Introduction
 
 This project is a Demo-Backend of how to use Spring-Security[[1]](https://spring.io/projects/spring-security) in combination with JSON Web Token (JWT) 
 and MongoDB to perform authentication and authorization of a Rest-Api. 
