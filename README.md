@@ -56,6 +56,6 @@ header of your request. The JWT can be extracted from the previous Response Head
    The Admin endpoint can only be accessed if the user has the **ROLE_ADMIN**.
    
 
-##References
+##References  
 [1] https://spring.io/projects/spring-security  
 [2] https://jwt.io
