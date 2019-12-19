@@ -1,0 +1,9 @@
+spring:
+  data:
+    mongodb:
+      database: spring-jwt
+
+jwt:
+  issuer: <issuer>
+  expirationTime: 60 #minutes
+  secret: <secret>
