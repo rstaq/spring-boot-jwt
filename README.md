@@ -49,7 +49,7 @@ header of your request. The JWT can be extracted from the previous Response Head
     ```text
     $ curl -X GET http://localhost:8080/api/user -H "Authorization: <enter_token>"
     ```
-    3.2. Access unauthorized endpoint. 
+    3.2. Try to access unauthorized endpoint. 
     ```text
     $ curl -X GET http://localhost:8080/api/admin -H "Authorization: <enter_token>"
     ```
